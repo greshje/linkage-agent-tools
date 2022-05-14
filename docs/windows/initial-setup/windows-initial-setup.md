@@ -18,7 +18,27 @@ During the development process, it is not uncommon for the Docker environment to
 ## Clone and Checkout the Source Code
 Create a folder to work out of (for example, I create a folder called _PPRL in my Eclipse workspace to hold the PPRL projects).  Create a fork/branch for your work.  Clone and check out the annon-link project and the link-agent-tools project.  
 
+<b>Checkout and Clone Anonlink Example</b>
+
+```shell
+git clone https://github.com/greshje/anonlink-entity-service
+cd anonlink-entity-service
+git checkout gresh-2022-05-12
+```
+
 <p>
 	<img width="800px" src="./img/clone-anonlink.PNG" />
 </p>
+
+<b>Checkout and Clone Link Agent Tools Example</b>
+
+```shell
+git clone https://github.com/greshje/anonlink-entity-service
+cd anonlink-entity-service
+git checkout gresh-2022-05-12
+```
+<p>
+	<img width="800px" src="./img/clone-linkagent.PNG" />
+</p>
+
 
