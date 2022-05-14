@@ -75,3 +75,7 @@ Replace:
 <br/>
 ```data61/anonlink-app:v1.15.1```
 
+## Start Docker Desktop
+Start Docker Desktop and wait for the container to start.  Once startup has completed you should see something like what is shown below.  
+<img width="800px" src="./img/docker-startup.PNG />
+
