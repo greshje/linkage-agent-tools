@@ -78,6 +78,6 @@ Replace:
 ## Start Docker Desktop
 Start Docker Desktop and wait for the container to start.  Once startup has completed you should see something like what is shown below.  
 <p>
-	<img width="800px" src="./img/docker-startup.PNG" />
+	<img width="400px" src="./img/docker-startup.PNG" />
 </p>
 
