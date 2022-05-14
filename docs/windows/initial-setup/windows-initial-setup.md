@@ -44,6 +44,23 @@ git checkout gresh-2022-05-12
 
 ## Make Changes to Anon Link Project
 The folowing things need to be modified from the code currently check into the data61/anonlink-entity-service
+<br/>
+<br/>
+<b>1.) Modify ./tools/build.sh</b>
+<br/>
+Uncomment the following line in ./tools/build.sh
 
+```
+#docker build -t data61/anonlink-base:latest base
+```
+<b>2.) Modifications of Version Numbers in ./base/Dockerfile</b>
+<br/>
+Make the following modifications to ./base/Dockerfile
 
+```
+python3=3.9.5-r2 \
+python3-dev=3.9.5-r2 \
+libpq=13.5-r0 \
+postgresql-dev=13.5-r0 \
+```
 
