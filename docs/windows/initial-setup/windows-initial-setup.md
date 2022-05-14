@@ -20,7 +20,7 @@ Create a folder to work out of (for example, I create a folder called _PPRL in m
 
 <b>Checkout and Clone Anonlink Example</b>
 
-```shell
+```
 git clone https://github.com/greshje/anonlink-entity-service
 cd anonlink-entity-service
 git checkout gresh-2022-05-12
@@ -32,13 +32,18 @@ git checkout gresh-2022-05-12
 
 <b>Checkout and Clone Link Agent Tools Example</b>
 
-```shell
+```
 git clone https://github.com/greshje/link-agent-tools
 cd link-agent-tools
 git checkout gresh-2022-05-12
 ```
+
 <p>
 	<img width="800px" src="./img/clone-linkagent.PNG" />
 </p>
+
+## Make Changes to Anon Link Project
+The folowing things need to be modified from the code currently check into the data61/anonlink-entity-service
+
 
 
