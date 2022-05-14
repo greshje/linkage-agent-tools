@@ -33,8 +33,8 @@ git checkout gresh-2022-05-12
 <b>Checkout and Clone Link Agent Tools Example</b>
 
 ```shell
-git clone https://github.com/greshje/anonlink-entity-service
-cd anonlink-entity-service
+git clone https://github.com/greshje/link-agent-tools
+cd link-agent-tools
 git checkout gresh-2022-05-12
 ```
 <p>
