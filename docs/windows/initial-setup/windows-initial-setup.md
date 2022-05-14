@@ -80,4 +80,14 @@ Start Docker Desktop and wait for the container to start.  Once startup has comp
 <p>
 	<img width="400px" src="./img/docker-startup.PNG" />
 </p>
+<b>Run the Build Script</b>
+Run the following cmd from the root directory of anonlink-entity-service as shown below
+```
+.\tools\build.sh
+```
+
+<b>Start up the the Container Application</b>
+```
+docker-compose -f tools/docker-compose.yml up 
+```
 
