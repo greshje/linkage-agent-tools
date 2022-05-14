@@ -63,4 +63,15 @@ python3-dev=3.9.5-r2 \
 libpq=13.5-r0 \
 postgresql-dev=13.5-r0 \
 ```
+<b>3.) Modifications of Version numbers in ./tools/docker-compose.yml</b>
+<br/>
+Do a global search and replace.  
+<br/>
+Find:
+<br/>
+```data61/anonlink-app:${TAG:-latest}```
+<br/>
+Replace:
+<br/>
+```data61/anonlink-app:v1.15.1```
 
