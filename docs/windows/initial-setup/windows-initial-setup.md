@@ -93,4 +93,8 @@ Run the following cmd to start the application.
 ```
 docker-compose -f tools/docker-compose.yml up 
 ```
+<p>
+	<img width="800px" src="./img/start-docker-app.PNG" />
+</p>
+
 
