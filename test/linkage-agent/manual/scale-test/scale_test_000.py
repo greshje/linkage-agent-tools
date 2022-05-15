@@ -11,4 +11,4 @@
 import time_test as tt
 
 if __name__ == "__main__":
-    tt.run_test("C:\\test\\time-test-no-households")
+    tt.run_test("C:\\test\\pprl\\linkage-agent-scaling-test-set-2\\test-set-000")
