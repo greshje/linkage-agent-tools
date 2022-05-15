@@ -87,11 +87,16 @@ Run the following cmd from the root directory of anonlink-entity-service as show
 .\tools\build.sh
 ```
 
-<b>Start up the the Container Application</b>
-Run the following cmd to start the application.  
+<p>
+	<b>Start up the the Container Application</b>
+	<br/>
+	Run the following cmd to start the application.  
+	<br/>
+	Run this from the root dir of the project.  
+</p>
 
 ```
-docker-compose -f tools/docker-compose.yml up 
+docker-compose -p anonlink -f ../anonlink-entity-service/tools/docker-compose.yml up --remove-orphans
 ```
 <p>
 	<img width="800px" src="./img/start-docker-app.PNG" />
