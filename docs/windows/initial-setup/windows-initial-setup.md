@@ -97,4 +97,23 @@ docker-compose -f tools/docker-compose.yml up
 	<img width="800px" src="./img/start-docker-app.PNG" />
 </p>
 
+## Test Data Sets
+Test data sets are available here (Contact Andy Gregorowicz for access):
+<br/>
+<a href="https://app.box.com/folder/0">https://app.box.com/folder/0</a>
+<br/>
+The Linkage Agent Scaling Test Set from Apr 28, 2022 will break the linkage agent tool.  
+<br/>
+We are currently using the Linkage Agent Scaling Test Set 2 from May 12, 2022 available here:
+<br/>
+<a href="https://app.box.com/folder/161924808689?s=k52olvofnzrw4m0eyt4vq6fmieja3ylp">https://app.box.com/folder/161924808689?s=k52olvofnzrw4m0eyt4vq6fmieja3ylp</a>
+<br/>
+Download these files and unzip them to C:\test\pprl
+
+
+
+
+
+
+
 
